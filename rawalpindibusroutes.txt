@@ -1,0 +1,134 @@
+SadarRWP	RailwayStation
+RailwayStation	MaheerHussan
+MaheerHussan	ChandniChowk
+ChandniChowk	MureeRoad
+MureeRoad	Faizabad
+Faizabad	ZeeroPoint
+ZeeroPoint	AabPara
+AabPara	Melody
+Melody	Secretariat
+Secretariat     RajaBazar
+RajaBazar	CommitteeChowk
+"Committee
+Chowk"	ChandniChowk
+ChandniChowk	MureeRoad
+MureeRoad	Faizabad
+Faizabad	ZeroPoint
+ZeroPoint	Aabpara
+Aabpara	Sarina
+Sarina	RadioPak
+RadioPak	BariImam
+RWPKachehri	Airport
+Airport	KhannaPull
+KhannaPull	KuriRoad
+KuriRoad	Faizabad
+Faizabad	ZeroPoint
+ZeroPoint	Aabpara
+Aabpara	Sarina
+Sarina	SBP
+Adyala	ChungiNo.22
+ChungiNo.22	MandiMore
+MandiMore	I-10
+I-10	I-9
+I-9	"Al-Shifa
+H-8"
+"Al-Shifa
+H-8"	"T&T
+G-8"
+"T&T
+G-8"	SitaraMarketG-7Markaz
+SitaraMarketG-7Markaz	Melody
+Melody	Secretariat
+PirwadhaiAdda	PindoraChungi
+PindoraChungi	Faizabad
+Faizabad	ZeroPoint
+ZeroPoint	Abpara
+Abpara	Melody
+Melody	PolyClinic
+PolyClinic	SuperMarketF-6
+SuperMarketF-6	JinnahSuperF-7
+Tarnol	ChungiNo.26
+ChungiNo.26	G-13
+G-13	TollPlazaGolraMore
+TollPlazaGolraMore	G-11
+G-11	G-10
+G-10	KarachiCompany
+KarachiCompany	Complex
+Complex	BlueArea
+BlueArea	Secretariat
+Secretariat     G-11Markaz
+G-11Markaz	"G-10
+Markaz"
+"G-10
+Markaz"	KarachiCompany
+KarachiCompany	PeshawarMore
+PeshawarMore	"T&T
+G-8"
+"T&T
+G-8"	SitaraMarketG-7Markaz
+SitaraMarketG-7Markaz	Melody
+Melody	AabPara
+MandiMore	Khyaban
+Khyaban	Katarian
+Katarian	PindoraChungi
+PindoraChungi	DoubleRoad
+DoubleRoad	Faizabad
+Faizabad	ChakShehzad
+ChakShehzad	RawalDam
+RawalDam	BharaKahu
+Rawat	KalPull
+KalPull	KhannaPull
+KhannaPull	KuriRoad
+KuriRoad	Faizabad
+Faizabad	"Al-Shifa
+H-8"
+"Al-Shifa
+H-8"	"OneFive
+G-8"
+"OneFive
+G-8"	"Noori
+G-8Markaz"
+"Noori
+G-8Markaz"	Complex
+Complex	F-8Markaz
+MandiMore	I-10
+I-10	I-9
+I-9	DaldaMill
+DaldaMill	HEC
+HEC	PeshawarMore
+PeshawarMore	Complex
+Complex	BlueArea
+BlueArea	Secretariat
+GolraSharif	F-11&10
+F-11&10	KarachiCompany
+KarachiCompany	Complex
+Complex	SitaraMarketG-7Markaz
+SitaraMarketG-7Markaz	Melody
+Melody	Aabpara
+Aabpara	Sarina
+Sarina	RadioPak
+RadioPak	BariImam
+HajiCamp	DawooAdda
+DawooAdda	MandiMore
+MandiMore	I-10
+I-10	I-9
+I-9	PeshawarMore
+PeshawarMore	KarchiCompany
+KarchiCompany	F-8Markaz
+F-8Markaz	FaisalMosque
+MandiMore	I-10
+I-10	I-9
+I-9	PeshawarMore
+PeshawarMore	KarchiCompany
+KarchiCompany	F-8Markaz
+F-8Markaz	FaisalMosque
+Sehala	KalPull
+KalPull	AirportChowk
+AirportChowk	"Khanna
+Pull"
+"Khanna
+Pull"	KuriRoad
+KuriRoad	Faizabad
+Faizabad	ZeeroPoint
+ZeeroPoint	Complex
+Complex	F-8Markaz
